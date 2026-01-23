@@ -2,6 +2,7 @@
 
 ## Overview
 This project analyzes insurance policy data to identify factors that influence claim risk and predict total quoted payments. It applies multiple regression and classification modeling techniques using Python.
+- Note: Presentation can be found here: [Insurance-Company/Pr0Fin_SmithM.mp4]
 
 ### Datasets
 - TheGeneral.csv
